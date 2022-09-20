@@ -18,6 +18,8 @@ Denne øvingen bruker fire AWS tjenestester
 
 ## Lag en fork
 
+hjelp
+
 Du må start med å lage en fork av dette repoet til din egen GitHub konto.
 
 ![Alt text](img/fork.png  "a title")
